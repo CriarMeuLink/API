@@ -1,2 +1,2 @@
 # API
-API de acessos do seu link criado no CriarMeuLink.com.br
+API para monitoramento de acessos para os links criados pelo CriarMeuLink.com.br
