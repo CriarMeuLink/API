@@ -3,7 +3,7 @@ API para monitoramento de acessos para os links criados pelo [CriarMeuLink.com.b
 
 ## Como usar a API?
 Uma requisição HTTP GET pode ser feita através da seguinte URL: `https://criarmeulink.com.br/a/LINK_GERADO`
-Onde *LINK_GERADO* é o link criado pelo CriarMeuLink (na forma codificada).
+Onde *LINK_GERADO* é o link criado pelo CriarMeuLink (na forma codificada). (Veja: [exemplo.js](https://github.com/CriarMeuLink/API/blob/master/exemplo.js))
 Exemplo: 
 
     https://criarmeulink.com.br/a/http%3A%2F%2Fcriarmeulink.com.br%2Fu%2F1594736628065
