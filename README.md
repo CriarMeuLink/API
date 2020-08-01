@@ -21,7 +21,7 @@ Exemplo:
     {"linkName":"1596210008251","time":"1596237749068","device":"mob","country":"BR","region":"Rio Grande do Sul"},
     {"linkName":"1596210008251","time":"1596288759478","device":"mob","country":"BR","region":"Rio Grande do Sul"}]
 
-Cada item do *array* significa um acesso e contém as seguintes propriedades:
+Cada objeto do *array* significa um acesso e contém as seguintes propriedades:
 |propriedade|descrição|
 |--|--|
 |linkName|O nome do link gerado.|
